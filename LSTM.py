@@ -1,8 +1,3 @@
-# -*- coding: utf-8 -*-
-"""movementvalues.ipynb
-
-
-"""
 
 import torch
 import torch.nn as nn
